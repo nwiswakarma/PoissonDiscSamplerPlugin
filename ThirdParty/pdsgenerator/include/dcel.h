@@ -1,3 +1,6 @@
+//
+// Updated from original source. 2018 Nuraga Wiswakarma
+
 #ifndef DCEL_H
 #define DCEL_H
 
